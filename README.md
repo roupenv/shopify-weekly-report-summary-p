@@ -22,5 +22,5 @@ A special .dotenv file must be added manually to the project folder which contai
 
 The App also saves the processed data in cache in order to save time and not have to re-request data for a given time period. If the user makes a request outside of the cached time period it will automatically request that data from Shopify and Payal 
 
-![](https://github.com/roupenv/shopify_weekly_summary_report/blob/master/assets/weekly%20summary%20report%20screenshot.png)
-![](https://github.com/roupenv/shopify_weekly_summary_report/blob/master/assets/weekly%20summary%20report%20output%20screenshot.png)
+![](https://github.com/roupenv/shopify-weekly-report-summary-p/blob/master/assets/weekly%20summary%20report%20screenshot.png)
+![](https://github.com/roupenv/shopify-weekly-report-summary-p/blob/master/assets/weekly%20summary%20report%20output%20screenshot.png)
